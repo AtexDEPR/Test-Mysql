@@ -1,4 +1,6 @@
+-- ----------------------------
 -- Creación de tablas para la base de datos
+-- ----------------------------
 
 create database sakila;
 
