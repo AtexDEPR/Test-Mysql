@@ -1,5 +1,5 @@
 # SAKILA CAMPUS
----
+
 
 ### Descripcion
 ---
@@ -66,7 +66,7 @@ Crea los siguientes eventos:
    4. LimpiarAuditoriaCada6Meses: Borra los registros antiguos de auditoría cada seis meses.
    5. ActualizarCategoriasPopulares: Actualiza la lista de categorías más alquiladas al final de cada mes.
 
-###Resultado esperado
+### Resultado esperado
 ---
 
 Se deberá entregar el examen a través de un repositorio privado en GitHub (Compartido con las cuentas que el Trainer indique). El repositorio deberá estar bien estructurado, contener toda la documentación necesaria y los archivos SQL correspondientes.
