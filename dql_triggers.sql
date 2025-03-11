@@ -1,3 +1,9 @@
+-- ----------------------------
+-- script sql con triggers
+-- ----------------------------
+
+use sakila;
+
 -- Trigger 1: ActualizarTotalAlquileresEmpleado
 -- Actualiza el total de alquileres gestionados por un empleado cada vez que se registra un nuevo alquiler.
 DELIMITER //
