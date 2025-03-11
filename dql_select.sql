@@ -1,4 +1,6 @@
--- Consultas SQL consultas
+-- ----------------------------
+-- script SQL consultas
+-- ----------------------------
 
 use sakila;
 
